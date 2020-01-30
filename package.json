@@ -1,0 +1,24 @@
+{
+  "name": "09-nodejs-homework-developer-profile-generator",
+  "version": "1.0.0",
+  "description": "Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirhunty/09-NodeJS-Homework-Developer-Profile-Generator.git"
+  },
+  "author": "Hunter Matthews",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirhunty/09-NodeJS-Homework-Developer-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/sirhunty/09-NodeJS-Homework-Developer-Profile-Generator#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "html-pdf": "^2.2.0",
+    "inquirer": "^7.0.4"
+  }
+}
